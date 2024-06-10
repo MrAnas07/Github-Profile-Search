@@ -1,0 +1,29 @@
+body {
+    background-color: #f8f9fa;
+    overflow-x: hidden;
+}
+
+.card {
+    margin-top: 20px;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card-text {
+    text-align: center;
+}
+
+.input-group {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.alert {
+    margin-top: 20px;
+}
+
+#inp {
+    border-color: black;
+}
